@@ -12,7 +12,7 @@ Grab the tutorial at [https://www.youtube.com/watch?v=3681ZYbDSSk](https://www.y
 * 5: Install Ethereum Solidity language syntax @ https://packagecontrol.io/packages/Ethereum;
 
 # To Do
-* Install the pet-shop [package](http://truffleframework.com/tutorials/pet-shop);
+* Install the pet-shop [package](http://truffleframework.com/tutorials/pet-shop); Done;
 
 ## Thanks
 

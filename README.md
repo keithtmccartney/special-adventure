@@ -13,6 +13,7 @@ Grab the tutorial at [https://www.youtube.com/watch?v=3681ZYbDSSk](https://www.y
 
 # To Do
 * Install the pet-shop [package](http://truffleframework.com/tutorials/pet-shop); Done;
+* Migrate the Election contract via Truffle ("truffle migrate") (see changes in 'contracts' directory - Election.sol - and 'migrations' directory - '2_deploy_contracts.js'); Done;
 
 ## Thanks
 

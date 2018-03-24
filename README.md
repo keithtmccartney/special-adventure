@@ -15,6 +15,7 @@ Grab the tutorial at [https://www.youtube.com/watch?v=3681ZYbDSSk](https://www.y
 * Install the pet-shop [package](http://truffleframework.com/tutorials/pet-shop); Done;
 * Migrate the Election contract via Truffle ("truffle migrate") (see changes in 'contracts' directory - Election.sol - and 'migrations' directory - '2_deploy_contracts.js'); Done;
 * Run a reset-flag on migrating the contract/s through Truffle ("truffle migrate --reset"); (push a new copy of the contract/s to the local blockchain to run the updates as the previous copy/ies are immutable; we will lose the contract state and wil also be assigned a new address); Done;
+* Check web3 account access - run 'web3' or 'web3.eth' or 'web3.eth.accounts'; (See './images/web3_smoke_test.png';); Done;
 
 # Smoke Test
 * MINGW64 /.../special-adventure/election (master)

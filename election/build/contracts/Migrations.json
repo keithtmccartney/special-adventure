@@ -64,10 +64,10 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x8cdaf0cd259887258bc13a92c0a6da92698644c0",
-      "updated_at": 1521584381813
+      "address": "0x8f0483125fcb9aaaefa9209d8e9d7b9c8b9fb90f",
+      "updated_at": 1521916094175
     }
   },
   "schema_version": "0.0.5",
-  "updated_at": 1521584381813
+  "updated_at": 1521916094175
 }
